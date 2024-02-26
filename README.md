@@ -1,4 +1,4 @@
-# Welcome to the CODEx Club
+# Welcome to the CODEx Club🎉🎉🎉🎉
 
 Welcome to the Community of Developers (CODEx) Club, the premier technical club at our University dedicated to empowering students with the skills and knowledge needed to excel in the ever-evolving tech industry. Our mission is to foster a vibrant community of learners and innovators passionate about technology and its potential to transform the world.
 
