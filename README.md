@@ -2,6 +2,10 @@
 
 Welcome to the Community of Developers (CODEx) Club, the premier technical club at our University dedicated to empowering students with the skills and knowledge needed to excel in the ever-evolving tech industry. Our mission is to foster a vibrant community of learners and innovators passionate about technology and its potential to transform the world.
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CODEx-MMDU&label=Profile%20views&color=0e75b6&style=flat" alt="CODEx-MMDU" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CODEx-MMDU&theme=onedark" alt="CODEx-MMDU" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 ## Our Vision
 
 At CODEx Club, we believe in the power of collaboration, innovation, and skill development to prepare students for the challenges of the tech industry. We aim to bridge the gap between academic learning and practical application, ensuring our members are not just ready for the industry but are poised to lead it.
