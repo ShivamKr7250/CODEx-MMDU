@@ -2,6 +2,8 @@
 
 Welcome to the Community of Developers (CODEx) Club, the premier technical club at our University dedicated to empowering students with the skills and knowledge needed to excel in the ever-evolving tech industry. Our mission is to foster a vibrant community of learners and innovators passionate about technology and its potential to transform the world.
 
+SHIVAM KUMAR (President)
+
 ## Our Vision
 
 At CODEx Club, we believe in the power of collaboration, innovation, and skill development to prepare students for the challenges of the tech industry. We aim to bridge the gap between academic learning and practical application, ensuring our members are not just ready for the industry but are poised to lead it.
